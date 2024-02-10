@@ -3,4 +3,4 @@
 ![shopjacket](https://github.com/abdullahsam007/Shop-Jacket/assets/127679907/15ed16f9-d296-489c-b443-faefd1403c54)
 
 
-Learning Front-End Development from Basics.
+Learning Front-End Development from Basics | Modern UI/UX
